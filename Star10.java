@@ -23,7 +23,7 @@ System.out.print(" ");
 }
 for (k = 1; k < (i * 2); k++)
 {
-System.out.print("*");
+System.out.print("#");
 }
 System.out.println("");
 }
